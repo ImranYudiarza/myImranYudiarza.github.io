@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Belajar HTML</title>
+	</head>
+	<body bgcolor = "green">
+	Tipis
+	<b> Tebal </b>
+	<i> Miring </i>
+	<u> Garis Bawah </u>
+
+	</body>
+</html>
